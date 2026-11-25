@@ -1,0 +1,26 @@
+.product-card {
+  width: 320px;
+  box-sizing: border-box;
+  padding: 24px;
+  border: 1px solid #491404;
+  border-radius: 14px;
+  margin-bottom: 20px;
+}
+
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+
+.box-top {
+  margin-bottom: 40px;
+}
+
+.box-bottom {
+  margin-top: 30px;
+}
